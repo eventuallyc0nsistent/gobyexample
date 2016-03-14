@@ -1,3 +1,5 @@
+Learning go from https://gobyexample.com 
+
 - Hello World
 - Values
 - Variables
